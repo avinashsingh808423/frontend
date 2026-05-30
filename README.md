@@ -1,7 +1,7 @@
 # Frontend Project
 
 Project URL:
-https://avinash123.github.io/frontend-project/
+https://roadmap.sh/projects/single-page-cv
 
 ## Technologies Used
 - HTML
