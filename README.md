@@ -1,7 +1,7 @@
 # Frontend Project
 
 Project URL:
-https://avinash808423.github.io/frontend-project/
+https://avinash808423.github.io/frontend/
 
 
 ## Technologies Used
