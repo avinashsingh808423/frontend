@@ -2,7 +2,7 @@
 
 Project URL:
 https://avinash808423.github.io/frontend-project/
-)
+
 
 ## Technologies Used
 - HTML
